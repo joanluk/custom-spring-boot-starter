@@ -1,0 +1,11 @@
+app:
+  name: springboot-jwt-app
+
+jwt:
+  header: Authorization
+  expires_in: 300 # 5 minutes
+  mobile_expires_in: 600 # 10 minutes
+  secret: secret
+logging:
+  level:
+    root: info
