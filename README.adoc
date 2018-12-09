@@ -2,3 +2,6 @@ image:https://travis-ci.org/joanluk/custom-spring-boot-starter.svg?branch=master
 
 
 = JWT Spring Boot Starter
+
+
+El objetivo de esta repo es crear un custom starter para aplicaciones Spring Boot 2.
