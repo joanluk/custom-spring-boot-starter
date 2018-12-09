@@ -1,0 +1,4 @@
+image:https://travis-ci.org/joanluk/custom-spring-boot-starter.svg?branch=master["Build Status", link="https://travis-ci.org/joanluk/custom-spring-boot-starter"]
+
+
+= JWT Spring Boot Starter
