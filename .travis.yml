@@ -3,7 +3,7 @@ language: java
 install: echo "My projects will be configurable in an awesomical way ;)."
 
 # don't just run the tests, also run Findbugs and friends.
-script: mvn clean package
+script: mvn clean install
 
 jdk:
 - oraclejdk8
